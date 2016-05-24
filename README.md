@@ -1,3 +1,3 @@
 Hello I am Ken
 
-I love programminga and art 
+I love programming and art 
